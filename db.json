@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+        "id": 1337,
+        "description": "Test CORONFT, token_id = 1337",
+        "external_url": "https://vk.com/kakoi_to_mudak_zanyal_moi_nik",
+        "image": "https://raw.githubusercontent.com/5133n/test_nft_rinkeby/main/letter.jpg",
+        "name": "Coronft test"
+    },
+    {
+        "id": 228,
+        "description": "Test CORONFT, token_id = 228",
+        "external_url": "https://vk.com/kakoi_to_mudak_zanyal_moi_nik",
+        "image": "https://raw.githubusercontent.com/5133n/test_nft_rinkeby/main/letter.jpg",
+        "name": "Coronft test"
+    },
+    {
+        "id": 322,
+        "description": "Test CORONFT, token_id = 322",
+        "external_url": "https://vk.com/kakoi_to_mudak_zanyal_moi_nik",
+        "image": "https://raw.githubusercontent.com/5133n/test_nft_rinkeby/main/letter.jpg",
+        "name": "Coronft test"
+    },
+    {
+        "id": 29903,
+        "description": "Test CORONFT, token_id = 29903",
+        "external_url": "https://vk.com/kakoi_to_mudak_zanyal_moi_nik",
+        "image": "https://raw.githubusercontent.com/5133n/test_nft_rinkeby/main/letter.jpg",
+        "name": "Coronft test"
+    }
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
